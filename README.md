@@ -6,11 +6,12 @@
 
 ## vscode react
 
-## vscode node
 
 ## other cool stuff
 
 - combined config front/backend
+- sourcemaps nodejs
+
+
 - node from chrome
 - replace files loaded in production
-- sourcemaps nodejs
